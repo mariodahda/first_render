@@ -57,4 +57,3 @@ if start_button:
     ].reset_index(drop=True)
 
 st.write(st.session_state["df_experiment_results"])
-
